@@ -7,8 +7,11 @@
     flex-wrap: wrap;
 }
 
-.grid > div {
+.grid div {
     width: 20px;
     height: 20px;
-    background-color: red;
+}
+
+.tetromino {
+    background-color: blue;
 }
